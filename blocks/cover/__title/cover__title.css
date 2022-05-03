@@ -8,7 +8,6 @@
   line-height: 106%;
   color: #fff;
   z-index: 1;
-  position: relative;
 }
 
 @media screen and (max-width: 767px) {
